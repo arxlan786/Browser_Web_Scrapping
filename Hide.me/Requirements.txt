@@ -1,0 +1,6 @@
+python	      >= 3.7.3
+tqdm	      >= 4.31.1
+selenium      >= 3.141.0
+chromedriver  >= 75.0.3770.90
+
+Make sure you have same version of chrome driver and your chrome browser.
